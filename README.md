@@ -1,2 +1,2 @@
 # C-Basics
-creating my first C# line of codes! Wooohooooo!
+creating my first C# lines of code! Wooohooooo!
