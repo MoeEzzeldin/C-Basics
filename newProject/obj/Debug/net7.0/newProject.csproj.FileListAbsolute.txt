@@ -1,0 +1,15 @@
+C:\Users\Student\workSpace\C#\C-Basics\newProject\bin\Debug\net7.0\newProject.exe
+C:\Users\Student\workSpace\C#\C-Basics\newProject\bin\Debug\net7.0\newProject.deps.json
+C:\Users\Student\workSpace\C#\C-Basics\newProject\bin\Debug\net7.0\newProject.runtimeconfig.json
+C:\Users\Student\workSpace\C#\C-Basics\newProject\bin\Debug\net7.0\newProject.dll
+C:\Users\Student\workSpace\C#\C-Basics\newProject\bin\Debug\net7.0\newProject.pdb
+C:\Users\Student\workSpace\C#\C-Basics\newProject\obj\Debug\net7.0\newProject.csproj.AssemblyReference.cache
+C:\Users\Student\workSpace\C#\C-Basics\newProject\obj\Debug\net7.0\newProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\workSpace\C#\C-Basics\newProject\obj\Debug\net7.0\newProject.AssemblyInfoInputs.cache
+C:\Users\Student\workSpace\C#\C-Basics\newProject\obj\Debug\net7.0\newProject.AssemblyInfo.cs
+C:\Users\Student\workSpace\C#\C-Basics\newProject\obj\Debug\net7.0\newProject.csproj.CoreCompileInputs.cache
+C:\Users\Student\workSpace\C#\C-Basics\newProject\obj\Debug\net7.0\newProject.dll
+C:\Users\Student\workSpace\C#\C-Basics\newProject\obj\Debug\net7.0\refint\newProject.dll
+C:\Users\Student\workSpace\C#\C-Basics\newProject\obj\Debug\net7.0\newProject.pdb
+C:\Users\Student\workSpace\C#\C-Basics\newProject\obj\Debug\net7.0\newProject.genruntimeconfig.cache
+C:\Users\Student\workSpace\C#\C-Basics\newProject\obj\Debug\net7.0\ref\newProject.dll
