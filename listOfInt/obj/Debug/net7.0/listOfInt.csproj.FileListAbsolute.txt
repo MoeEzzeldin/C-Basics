@@ -1,0 +1,15 @@
+C:\Users\Student\workSpace\C#\C-Basics\listOfInt\bin\Debug\net7.0\listOfInt.exe
+C:\Users\Student\workSpace\C#\C-Basics\listOfInt\bin\Debug\net7.0\listOfInt.deps.json
+C:\Users\Student\workSpace\C#\C-Basics\listOfInt\bin\Debug\net7.0\listOfInt.runtimeconfig.json
+C:\Users\Student\workSpace\C#\C-Basics\listOfInt\bin\Debug\net7.0\listOfInt.dll
+C:\Users\Student\workSpace\C#\C-Basics\listOfInt\bin\Debug\net7.0\listOfInt.pdb
+C:\Users\Student\workSpace\C#\C-Basics\listOfInt\obj\Debug\net7.0\listOfInt.csproj.AssemblyReference.cache
+C:\Users\Student\workSpace\C#\C-Basics\listOfInt\obj\Debug\net7.0\listOfInt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\workSpace\C#\C-Basics\listOfInt\obj\Debug\net7.0\listOfInt.AssemblyInfoInputs.cache
+C:\Users\Student\workSpace\C#\C-Basics\listOfInt\obj\Debug\net7.0\listOfInt.AssemblyInfo.cs
+C:\Users\Student\workSpace\C#\C-Basics\listOfInt\obj\Debug\net7.0\listOfInt.csproj.CoreCompileInputs.cache
+C:\Users\Student\workSpace\C#\C-Basics\listOfInt\obj\Debug\net7.0\listOfInt.dll
+C:\Users\Student\workSpace\C#\C-Basics\listOfInt\obj\Debug\net7.0\refint\listOfInt.dll
+C:\Users\Student\workSpace\C#\C-Basics\listOfInt\obj\Debug\net7.0\listOfInt.pdb
+C:\Users\Student\workSpace\C#\C-Basics\listOfInt\obj\Debug\net7.0\listOfInt.genruntimeconfig.cache
+C:\Users\Student\workSpace\C#\C-Basics\listOfInt\obj\Debug\net7.0\ref\listOfInt.dll

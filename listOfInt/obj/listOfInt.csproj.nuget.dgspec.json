@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Student\\workSpace\\C#\\C-Basics\\firstLineOfCode\\newProject.csproj": {}
+    "C:\\Users\\Student\\workSpace\\C#\\C-Basics\\listOfInt\\listOfInt.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Student\\workSpace\\C#\\C-Basics\\firstLineOfCode\\newProject.csproj": {
+    "C:\\Users\\Student\\workSpace\\C#\\C-Basics\\listOfInt\\listOfInt.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Student\\workSpace\\C#\\C-Basics\\firstLineOfCode\\newProject.csproj",
-        "projectName": "newProject",
-        "projectPath": "C:\\Users\\Student\\workSpace\\C#\\C-Basics\\firstLineOfCode\\newProject.csproj",
+        "projectUniqueName": "C:\\Users\\Student\\workSpace\\C#\\C-Basics\\listOfInt\\listOfInt.csproj",
+        "projectName": "listOfInt",
+        "projectPath": "C:\\Users\\Student\\workSpace\\C#\\C-Basics\\listOfInt\\listOfInt.csproj",
         "packagesPath": "C:\\Users\\Student\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Student\\workSpace\\C#\\C-Basics\\firstLineOfCode\\obj\\",
+        "outputPath": "C:\\Users\\Student\\workSpace\\C#\\C-Basics\\listOfInt\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Student\\AppData\\Roaming\\NuGet\\NuGet.Config",

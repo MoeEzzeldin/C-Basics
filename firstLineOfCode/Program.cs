@@ -9,6 +9,7 @@ namespace firstLineOfCodes
             string firstName = "Moe";
             string lastName = "Ezz";
             Console.WriteLine($"Hello, {firstName} {lastName}"); 
+            
     }
 }
 }

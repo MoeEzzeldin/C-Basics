@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\Student\\workSpace\\C#\\C-Basics\\firstLineOfCode\\newProject.csproj",
-      "projectName": "newProject",
-      "projectPath": "c:\\Users\\Student\\workSpace\\C#\\C-Basics\\firstLineOfCode\\newProject.csproj",
+      "projectUniqueName": "C:\\Users\\Student\\workSpace\\C#\\C-Basics\\listOfInt\\listOfInt.csproj",
+      "projectName": "listOfInt",
+      "projectPath": "C:\\Users\\Student\\workSpace\\C#\\C-Basics\\listOfInt\\listOfInt.csproj",
       "packagesPath": "C:\\Users\\Student\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\Student\\workSpace\\C#\\C-Basics\\firstLineOfCode\\obj\\",
+      "outputPath": "C:\\Users\\Student\\workSpace\\C#\\C-Basics\\listOfInt\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Student\\AppData\\Roaming\\NuGet\\NuGet.Config",
